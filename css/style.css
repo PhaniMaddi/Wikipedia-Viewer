@@ -1,0 +1,22 @@
+.font {
+  font-family: 'Dosis', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.5em;
+}
+
+.container {
+  margin-top: 10%;
+}
+
+.thumbnail {
+  display: inline-block;
+  margin: 5px;
+}
+
+.list-group-item {
+  margin-top: 10px;
+}
+
+.credit {
+  padding: 0% 75% 75% 0%;
+}
